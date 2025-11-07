@@ -28,8 +28,9 @@ I excel where multiple teams or prototypes need integration into a coherent road
 
 ## Featured Work: Polls App with @DefenderOfBasic (Open Research Institute)
 
-Crowd-sensing app that maps perception of claims and ability to predict consensus. 
-Users get ELO ratings based on their accuracy in reading collective judgment.
+- Crowd-sensing app that maps perception gaps within attention economies
+- Reveals when innovators' frontier claims clash with audience understanding
+- Bridges breakthrough ideas with real-world adoption
 
 **My role:** Product role focused on system design, UX logic, team coordination.
 
